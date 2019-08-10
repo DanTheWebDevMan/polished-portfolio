@@ -1,0 +1,24 @@
+body {
+    background-image: url("../images/welcomeimage.png");
+    width: 1350px;
+    height: 650px;
+}
+
+#name {
+    width: 76px; 
+    height: 1281.57px; 
+    color: rgb(255, 222, 89); 
+    text-decoration: none;
+    line-height: 0.9; 
+    letter-spacing: 0.02em; 
+    font-family: "YACgESME5ew 0", _fb_, auto; 
+    font-size: 140px; 
+    text-transform: uppercase; 
+    color: rgb(255, 222, 89);
+}
+
+#title {
+    color: rgb(31, 31, 31); 
+    text-decoration: none;
+    width: 76px; height: 1281.57px; transform: translate(602.787px, -414.146px) 
+}
